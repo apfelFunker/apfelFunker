@@ -26,7 +26,6 @@ Smart Home, Eventtechnik und Apple-Integration.
 
 📍 **Ort:** Berlin, Deutschland  
 
----
 
 > *„You are out of business if it doesn’t work.“*  
 > — Steve Jobs
