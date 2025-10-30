@@ -24,7 +24,6 @@ Motive analysiert tägliche Abläufe, Ziele und Aufgaben – und automatisiert p
 Ich bin **offen für neue Projekte** und Zusammenarbeit in den Bereichen  
 Smart Home, Eventtechnik und Apple-Integration.  
 
-👩🏼‍💻 **GitHub:** [@apfelfunker](https://github.com/apfelfunker)  
 📍 **Ort:** Berlin, Deutschland  
 
 ---
